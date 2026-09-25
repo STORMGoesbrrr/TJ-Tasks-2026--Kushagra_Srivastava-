@@ -18,6 +18,7 @@ int main(){
         }
         else{
             flag="No";
+            break;
         }
     }
     cout<<flag<<endl;
